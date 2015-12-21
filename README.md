@@ -1,2 +1,3 @@
 # airline
-Simple airline ticket reservation program
+
+This is a simple airline ticket reservation program written in C++ for a class project.
